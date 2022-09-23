@@ -590,6 +590,9 @@
     font-size: 1rem;
     margin-right: 24px;
     width: 400px;
+    background-color: #565656;
+    border: 1px solid #565656;
+    color: #fff;
 }
 #email {
     display: flex;
@@ -599,6 +602,9 @@
     font-size: 1rem;
     margin-right: 24px;
     width: 400px;
+    background-color: #565656;
+    border: 1px solid #565656;
+    color: #fff;
 }
 #message {
     display: flex;
@@ -606,6 +612,9 @@
     text-decoration: none;
     font-size: 1rem;
     margin-right: 24px;
+    background-color: #565656;
+    border: 1px solid #565656;
+    color: #fff;
 }
 .footer_container {
     background-color: #131313;
