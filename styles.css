@@ -647,14 +647,14 @@
 }
 @media screen and (max-width: 480px) {
     #name {
-        width: 300px;
+        width: 350px;
     }
     #email {
-        width: 300px;
+        width: 350px;
     }
     #message {
         height: 250px;
-        width: 300px;
+        width: 350px;
     }
 }
 .footer_container {
