@@ -259,7 +259,7 @@
     margin-bottom: 25px;
 }
 .main_content h2 {
-    font-size: 2.5rem;
+    font-size: 2rem;
     background-color: #ff1e1e;
     background: -webkit-linear-gradient(to right, #dd1818, #565656);
     background-image: linear-gradient(to right, #dd1818 0%, #565656);
@@ -638,10 +638,24 @@
     text-align: left;
     text-decoration: none;
     font-size: 1rem;
+    width: 400px;
+    height: 200px;
     margin: auto 24px;
     background-color: #565656;
     border: 1px solid #565656;
     color: #fff;
+}
+@media screen and (max-width: 480px) {
+    #name {
+        width: 250px;
+    }
+    #email {
+        width: 250px;
+    }
+    #message {
+        height: 250px;
+        width: 250px;
+    }
 }
 .footer_container {
     background-color: #131313;
